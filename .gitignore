@@ -1,0 +1,10 @@
+/cw-search.iml
+.idea
+target
+/cw-search-api/cw-search-api.iml
+/cw-search-webapp/cw-search-webapp.iml
+/cw-search-service/cw-search-service.iml
+
+/cw-search-api/target
+/cw-search-service/target
+/cw-search-webapp/target
