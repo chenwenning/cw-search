@@ -31,6 +31,12 @@
             <groupId>org.apache.lucene</groupId>
             <artifactId>lucene-highlighter</artifactId>
         </dependency>
+
+        <dependency>
+            <groupId>org.elasticsearch</groupId>
+            <artifactId>elasticsearch</artifactId>
+        </dependency>
+
     </dependencies>
 
     <build>
